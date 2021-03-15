@@ -57,10 +57,11 @@ const useStyles = makeStyles(() => ({
   timeWrapper: {
     fontSize: "1rem",
     gridRow: "10 / 12",
-    gridColumn: "70 / 80",
+    gridColumn: "90 / 95",
   },
   time: {
     color: "white",
+    textAlign: "right",
   },
 }));
 
