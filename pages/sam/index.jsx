@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 function samPage() {
-  return (
-    <div>
-      hi
-    </div>
-  )
+  return <div style={{ color: "blue" }}>J'aime appel Sam</div>;
 }
 
-export default samPage
+export default samPage;
